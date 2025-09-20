@@ -3,6 +3,11 @@
   "name": "Close Tab",
   "version": "1.0",
   "description": "Close Tab",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "close-tab@gglin001"
+    }
+  },
   "permissions": [
     "tabs"
   ],
