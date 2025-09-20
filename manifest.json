@@ -5,7 +5,12 @@
   "description": "Close Tab",
   "browser_specific_settings": {
     "gecko": {
-      "id": "close-tab@gglin001"
+      "id": "close-tab@gglin001",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
     }
   },
   "permissions": [
